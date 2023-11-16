@@ -1,0 +1,22 @@
+{
+    "name": "Indeed Company Searcher",
+    "version": "1.0.0",
+    "description": "A contextual menu that searches any highlighted company name on Indeed.",
+    "manifest_version": 3,
+    "author": "Qhotti",
+    "action":{
+        "default_title": "Indeed Company Searcher",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "contextMenus"
+      ],
+    "icons": {
+      "16": "logo-16.png",
+      "48": "logo-48.png",
+      "128": "logo-128.png"
+      },
+    "background": {
+      "service_worker": "script.js"
+    }
+}
