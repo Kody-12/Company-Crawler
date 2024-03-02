@@ -1,6 +1,6 @@
 {
     "name": "Company Crawler",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This extension allows you to easily search for a company's reviews, saving you time and hassle while searching for a job!",
     "manifest_version": 3,
     "author": "Qhotti",
