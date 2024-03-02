@@ -1,7 +1,7 @@
 {
     "name": "Company Crawler",
     "version": "1.0.0",
-    "description": "an extension that adds a context menu that enables you to look up a company's reviews easily.",
+    "description": "This extension allows you to easily search for a company's reviews, saving you time and hassle while searching for a job!",
     "manifest_version": 3,
     "author": "Qhotti",
     "action":{
