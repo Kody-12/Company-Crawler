@@ -1,11 +1,11 @@
 {
-    "name": "Indeed Company Searcher",
+    "name": "Company Crawler",
     "version": "1.0.0",
     "description": "A contextual menu that searches any highlighted company name on Indeed.",
     "manifest_version": 3,
     "author": "Qhotti",
     "action":{
-        "default_title": "Indeed Company Searcher",
+        "default_title": "Company Crawler",
         "default_popup": "popup.html"
     },
     "permissions": [
