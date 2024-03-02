@@ -6,3 +6,5 @@ All you have to do is highlight the company's name then right click and find the
 
 COMING SOON
 - more companies (Glassdoor and LinkedIn)
+- official chrome extension
+- firefox support
