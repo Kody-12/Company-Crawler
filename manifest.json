@@ -1,7 +1,7 @@
 {
     "name": "Company Crawler",
     "version": "1.0.0",
-    "description": "A contextual menu that searches any highlighted company name on Indeed.",
+    "description": "An extension for Chromium based browsers that integrates a contextual menu that enables users to conduct instant searches for highlighted company names directly on the company's platform. This makes the applying process a little quicker and safer by providing you with an easy way to look up company reviews.",
     "manifest_version": 3,
     "author": "Qhotti",
     "action":{
