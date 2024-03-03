@@ -7,7 +7,7 @@ chrome.runtime.onInstalled.addListener(function () {
     'Indeed',
     'LinkedIn',
     'Glassdoor',
-    'All'
+    'every site'
   ];
 
 
