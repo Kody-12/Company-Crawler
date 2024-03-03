@@ -40,7 +40,7 @@ const site = String(word.menuItemId); // this finds the id from the site selecte
 // checks if the site is in the object
   if (site in links === true){
    chrome.tabs.create({ url: links[site] + word.selectionText });
-  } else if (site == 'All'){
+  } else if (site == 'every site'){
     for (x in links){ // this opens all the links if you click all
       chrome.tabs.create({ url: links[x] + word.selectionText });;
     };
