@@ -6,3 +6,4 @@ A fun little extension I made that helps me look up a company's reviews easily o
 COMING SOON
 - more companies (Glassdoor and LinkedIn)
 - firefox support
+- gifs showing how to use
