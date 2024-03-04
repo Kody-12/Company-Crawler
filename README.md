@@ -6,3 +6,4 @@ A fun little extension I made that helps me look up a company's reviews easily o
 COMING SOON
 - firefox support
 - gifs showing how to use
+- new images
