@@ -7,3 +7,6 @@ COMING SOON
 - firefox support
 - gifs showing how to use
 - new images
+
+Bugs
+- sometimes when you highlight a company on indeed, it includes more than the company name, very rare.
